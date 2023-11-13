@@ -8,6 +8,26 @@ body{
     font-weight: normal;
     font-family: 'Roboto', sans-serif;
 }
-h2{
-    color: rgb(15, 202, 15);
+
+
+.avatar{
+    width: 150px;
+    border-radius: 40px;
+    box-shadow: 4px 4px 14px rgb(0, 0, 0.25) ;
+}
+
+.info p {
+    color: rgb(68, 66, 60);
+    margin: 0;
+    font-style: italic;
+
+}
+
+.cont{
+    max-width: 750px;
+    margin: auto;
+}
+
+.social {
+    background-color: green;
 }
