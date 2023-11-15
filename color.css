@@ -145,4 +145,6 @@ a:active {
     border-radius: 50px;
     margin: 0 auto;
     display: block;
+    margin-top: 5px;
+    margin-bottom: 40px;
 }
