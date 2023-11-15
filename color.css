@@ -51,6 +51,8 @@ a:active {
         text-align: center;
         display: block;
     }
+
+    
 }
 
 .info-text{
@@ -151,4 +153,10 @@ a:active {
 
 hr {
     width: 80%;
+}
+
+@media(max-width: 700px){
+    hr{
+        width: 80%;
+    }
 }
